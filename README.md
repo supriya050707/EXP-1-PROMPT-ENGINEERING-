@@ -37,3 +37,4 @@ Provide input (prompt) and generate new content based on learned patterns.
 https://github.com/supriya050707/EXP-1-PROMPT-ENGINEERING-/blob/main/prompt%20engineering.pdf
 ## Result
 
+The study of Generative AI and Large Language Models provides a strong foundation for understanding modern AI systems. Transformers have revolutionized natural language processing, while scaling has significantly improved model capabilities. Generative AI is transforming industries such as healthcare, education, and software development, making it a key technology for the future.
