@@ -34,6 +34,6 @@ Provide input (prompt) and generate new content based on learned patterns.
 
 
 ## Output
-
+https://github.com/supriya050707/EXP-1-PROMPT-ENGINEERING-/blob/main/prompt%20engineering.pdf
 ## Result
 
