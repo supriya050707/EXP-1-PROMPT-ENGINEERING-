@@ -29,6 +29,7 @@ Test the model performance and improve it using additional training if needed.
 
 Generate Output
 
+
 Provide input (prompt) and generate new content based on learned patterns.
 
 
